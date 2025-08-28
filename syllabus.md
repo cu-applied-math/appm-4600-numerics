@@ -41,6 +41,7 @@ Students are expected to already know how to program.  We encourage using Python
   - Iterative methods (taught at instructor's discretion)
 - Eigenvalue problems
   - Iterative methods (taught at instructor's discretion)
+- Estimate solutions to ODEs
 
 In the change from 4650 to 4600, we now save numerical differentiation and numerical methods for IVP and BVP in the second semester class
 
