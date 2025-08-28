@@ -62,8 +62,8 @@ Thursdays, led by the TA.
 For each lab, you must attend in person (we will take attendance if this becomes an issue), and then turn in the required documents to Canvas by midnight on the day of the lab. This counts for 15% of your grade.  Scoring per lab is done on a pass/fail basis.  We will automatically give all students one "free" lab that you do not need to turn in -- you do not need to tell us which lab, we automatically remove one of your lowest scores.
 
 ## Exams
-- There will be **two midterms**
-- There is a **final** exam 
+- There will be **no midterms**
+- There is a **final** field trip 
 
 ## Projects
 
@@ -71,15 +71,15 @@ There are no projects (some semesters we do a final project instead of a final e
 
 ## Homeworks
 
-There will be weekly homeworks.  You are allowed to drop 1 homework (this will be done automatically).
+There will be monthly homeworks.  You are allowed to drop 1 homework (this will be done automatically).
 
 ## Grading
 - 15% for lab/recitation days. 
   - Each day is pass/fail (you turn it in on time or you don't), but you are allowed one free "droppped" lab
-- 30% Homework.
+- 80% Homework.
   - Late homework is not accepted, but you are allowed one free "dropped" homework. Your lowest-scoring homework will be automatically dropped.
-- 30% Midterms (2 midterms, each 15%)
-- 25% Final exam
+- 0% Midterms (2 midterms, each 15%)
+- 5% Final field trip report
 
 The overall grade may be **curved** as appropriate, but note that there is no set "quota" of A's, B's, etc., so you are not directly competing with your classmates.
 
