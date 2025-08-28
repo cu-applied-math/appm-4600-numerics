@@ -74,12 +74,13 @@ There are no projects (some semesters we do a final project instead of a final e
 There will be weekly homeworks.  You are allowed to drop 1 homework (this will be done automatically).
 
 ## Grading
-- 15% for lab/recitation days. 
+- 50
+% for lab/recitation days. 
   - Each day is pass/fail (you turn it in on time or you don't), but you are allowed one free "droppped" lab
-- 30% Homework.
+- 50% Homework.
   - Late homework is not accepted, but you are allowed one free "dropped" homework. Your lowest-scoring homework will be automatically dropped.
-- 30% Midterms (2 midterms, each 15%)
-- 25% Final exam
+- 0% Midterms (2 midterms, each 15%)
+- 0% Final exam
 
 The overall grade may be **curved** as appropriate, but note that there is no set "quota" of A's, B's, etc., so you are not directly competing with your classmates.
 
