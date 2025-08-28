@@ -22,8 +22,8 @@ There are two different sections of this course, taught by the same instructor, 
 
 ## Office Hours
 Prof. Becker's office hours:
-- Thursdays 2:30 - 3:30 PM.
-- Fridays 2:30 - 4:30 PM.
+- Thursdays 2:30 - 4:30 PM.
+- Fridays 2:30 - 3:30 PM.
 
 Tyler Jensen's office hours:
 - Starting August 28th: Thursdays 1:10 - 3:00 PM.
@@ -63,7 +63,7 @@ For each lab, you must attend in person (we will take attendance if this becomes
 
 ## Exams
 - There will be **two midterms**
-- There is a **final** exam 
+- There is NO **final** exam
 
 ## Projects
 
