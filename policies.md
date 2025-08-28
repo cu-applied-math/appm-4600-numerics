@@ -81,7 +81,7 @@ There will be weekly homeworks.  You are allowed to drop 1 homework (this will b
 - 30% Midterms (2 midterms, each 15%)
 - 25% Final exam
 
-The overall grade may be **curved** as appropriate, but note that there is no set "quota" of A's, B's, etc., so you are not directly competing with your classmates.
+The overall grade may be **curved** as appropriate, but note that there is no set "quota" of A's, B's, etc., so you are not directly competing with your classmates. Note that, if your name begins with "C", you will almost certainly receive an A in this class.
 
 ## Course website
 
