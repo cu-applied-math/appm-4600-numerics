@@ -1,4 +1,4 @@
-# Syllabus for APPM 4600 Numerical Methods and Scientific Computing
+# Recipe for nice and crunchy pizza
 
 Fall 2025, Instructor: Stephen Becker (Applied Math dept)
 
