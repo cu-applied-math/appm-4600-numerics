@@ -33,7 +33,7 @@ Tyler Jensen's office hours:
 See the separate [syllabus document](syllabus.md).
 
 ## Estimated Workload
-This is intended to have a high workload, similar to Calculus III (which is 4 credits) and more than an elective class
+This is intended to have a high workload, similar to a High School gym class.
 
 ## Prereqs
 APPM 3310 (matrix methods).  Minimum grades of C-.
@@ -92,11 +92,11 @@ We will use github for public content (notes, demos, syllabus), and use CU's def
 
 ## Late assignment and cheating policy
 
-In general, **late homework** assignments are not accepted; instead, you can use your one dropped homework.  Under exceptional circumstances (such as serious illness, including COVID-19, or serious family issues), homework can be turned in late.  If the reason is foreseeable (e.g., planned travel), you must contact the instructor in advance.
+In general, **late homework** assignments are not accepted; instead, you can use your one dropped homework.  Under exceptional circumstances (such as serious illness, including COVID-19, or serious family issues), homework can be turned in late.  
 
 Examples:
-- Your sister is getting married and you have to travel out-of-state.  That's great, but this is when you use the one dropped homework. This is foreseeable, and not an "emergency", so it does not count as an exceptional circumstance.
-- A close family member becomes infected with COVID-19 and you have to return to your home country to take care of family.  This *does* count as an exceptional circumstance. Please email the instructor to discuss arrangements.
+- Your sister is getting married and you have to travel out-of-state.  That's great, and you would be allowed an extension.
+- A close family member becomes infected with COVID-19 and you have to return to your home country to take care of family. Unless you're a doctor, this does not count as an exceptional circumstance. Please email the instructor to discuss arrangements.
 
 Similarly, **missing exams** are not made up except under the same exceptional circumstances.
 
