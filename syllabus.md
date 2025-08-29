@@ -129,6 +129,8 @@ Detailed list of topics (TBD)
 ## Final Exam
 The final is cumulative, but with extra emphasis on the following topics (TBD)
 
+Your lowest midterm score will be replaced by your final score if it is higher
+
 See the [Final Exam review](Notes/Review_Final.pdf) and [Final Exam review solutions](Notes/Review_Final.soln.pdf); see also the conceptual review sheet "KeyIdeas_DriscollBraun.pdf" on canvas
 
 The most important topics are marked with an asterisk*
