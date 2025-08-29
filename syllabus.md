@@ -127,7 +127,7 @@ Detailed list of topics (TBD)
 
 
 ## Final Exam
-The final is cumulative, but with extra emphasis on the following topics (TBD)
+The final is optional!, but with extra emphasis on the following topics (TBD)
 
 See the [Final Exam review](Notes/Review_Final.pdf) and [Final Exam review solutions](Notes/Review_Final.soln.pdf); see also the conceptual review sheet "KeyIdeas_DriscollBraun.pdf" on canvas
 
