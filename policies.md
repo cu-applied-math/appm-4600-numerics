@@ -22,12 +22,10 @@ There are two different sections of this course, taught by the same instructor, 
 
 ## Office Hours
 Prof. Becker's office hours:
-- Thursdays 2:30 - 3:30 PM.
-- Fridays 2:30 - 4:30 PM.
+- Monday through Saturday 9:00 AM - 9:00 PM.
 
 Tyler Jensen's office hours:
-- Starting August 28th: Thursdays 1:10 - 3:00 PM.
-- Starting September 5th: Fridays 10:00 - 11:00 AM.
+- Monday through Saturday 9:00 AM - 9:00 PM.
 
 ## Course Information
 See the separate [syllabus document](syllabus.md).
