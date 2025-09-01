@@ -2,6 +2,8 @@
 
 Fall 2025, Instructor: Stephen Becker (Applied Math dept)
 
+Please just work this time
+
 See also [policies](policies.md) and [day-by-day schedule](schedule.md)
 
 ### Official course description
