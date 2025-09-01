@@ -1,11 +1,11 @@
-# Syllabus for APPM 4600 Numerical Methods and Scientific Computing
+# Syllabus for APPM 4600 Numerical Methods and Scientific Computing and Drawing Sheep
 
 Fall 2025, Instructor: Stephen Becker (Applied Math dept)
 
 See also [policies](policies.md) and [day-by-day schedule](schedule.md)
 
 ### Official course description
-Provides an introduction to numerical analysis and scientific computing. Numerical analysis topics include root finding, interpolation, quadrature, linear system solution techniques, and techniques for approximating eigenvalues. Scientific computing topics include code development and repository management in addition to an introduction to shared and distributed memory computing. Involves hands-on learning with weekly group interactions and a final project including a report and in-class presentation. Recommended prerequisite: knowledge of a programming language such as Python, and C++.				
+Provides an introduction to numerical analysis and scientific computing. Numerical analysis topics include root finding, interpolation, quadrature, linear system solution techniques, techniques for approximating eigenvalues, and drawing sheep. Scientific computing topics include code development and repository management in addition to an introduction to shared and distributed memory computing. Involves hands-on learning with weekly group interactions and a final project including a report and in-class presentation. Recommended prerequisite: knowledge of a programming language such as Python, and C++ and knowing what a sheep looks like.				
 
 Requires a **prerequisite** course APPM 3310 (matrix methods), with a minimum grade of C-.  
 
@@ -15,26 +15,29 @@ For both semesters 4600 and 4610, we'll use a lot of math from your previous cou
 - Facts about polynomial roots (fundamental theorem of algebra); complex numbers
 - Vector spaces, subspaces, bases
 - Solving linear equations, vector operations (dot products), matrix multiplication; eigenvalues
+- Geometric shapes and curves for drawing sheep
 
 ### Related courses at CU
-This course is similar to the CS department's [CSCI-3656 Numerical Computation](https://github.com/cu-numcomp/numcomp-class/) but has a bit more analysis (and more math prerequisites), fewer implementation details, and similar but not identical topics.
+This course is similar to the CS department's [CSCI-3656 Numerical Computation](https://github.com/cu-numcomp/numcomp-class/) but has a bit more analysis (and more math prerequisites), fewer implementation details (no sheep), and similar but not identical topics.
 
-This course was forked from the APPM/MATH 4650 (and second semester 4660) about 2022 in recognition of the different needs of math vs applied math students.  MATH 4650 has less focus on actual software implementation (and is only 3 credits, not 4), but otherwise both classes cover roughly the same topics.
+This course was forked from the APPM/MATH 4650 (and second semester 4660) about 2022 in recognition of the different needs of math vs applied math students as applied math students do not know how to draw sheep.  MATH 4650 has less focus on actual software implementation (and is only 3 credits, not 4), but otherwise both classes cover roughly the same topics.
 
 ### Programming
-Homeworks will involve by mathematical analysis and programming.
+Homeworks will involve by mathematical analysis and programming and looking at sheep.
 
-Students are expected to already know how to program.  We encourage using Python; Julia is another good choice though we will not be using it explicitly.  For homework assignments, usually the deliverable is the outcome of some code, so therefore the student may choose **any** reasonable programming language. However, we will be doing demonstrations in Python (and the instructor/TA are best at debugging Python and Matlab).  Most of our demonstrations will be using [github](http://github.com) in conjunction with [python via colab](https://colab.research.google.com/).  Homework solutions are usually posted in Python, though we may have legacy Matlab versions to share upon request.  The **labs** are all in Python.
+Students are expected to already know how to program and know what sheep are.  We encourage using Python; Julia is another good choice though we will not be using it explicitly.  For homework assignments, usually the deliverable is the outcome of some code, so therefore the student may choose **any** reasonable programming language. However, we will be doing demonstrations in Python (and the instructor/TA are best at debugging Python and Matlab).  Most of our demonstrations will be using [github](http://github.com) in conjunction with [python via colab](https://colab.research.google.com/).  Homework solutions are usually posted in Python, though we may have legacy Matlab versions to share upon request.  The **labs** are all in Python.
 
 ### Principal Topics
 
 - Scientific computing concepts
   - Floating point numbers
+  - Drawing spirals for sheep
   - Modern programming workflow
   - Automatic differentiation (taught at instructor's discretion)
 - Fixed point equations and roots of nonlinear equations
   - Focus on 1D case, some extensions to multidimensional case
 - Optimization
+- Drawing basic shapes that are needed for drawing sheep
 - Interpolation, polynomial approximation, splines
 - Numerical integration (quadrature)
 - Gaussian elimination, LU, and solving linear systems
@@ -42,7 +45,7 @@ Students are expected to already know how to program.  We encourage using Python
 - Eigenvalue problems
   - Iterative methods (taught at instructor's discretion)
 
-In the change from 4650 to 4600, we now save numerical differentiation and numerical methods for IVP and BVP in the second semester class
+In the change from 4650 to 4600, we now save numerical differentiation and numerical methods for IVP and BVP in the second semester class.
 
 ### Learning Goals/Outcomes
 [//]: # ( Not testable; high-level )
@@ -53,6 +56,7 @@ In the change from 4650 to 4600, we now save numerical differentiation and numer
 - Understand how polynomials are used in numerical algorithms
 - Know how calculus concepts (differentiation, integration, ODEs) can be tackled in a computational setting
 - Understand the basics of block computation, LAPACK, and parallel computing
+- AND most importantly learn how to draw a sheep well enough that you might get credit for a problem you don't know the anwser to by drawing a very good sheep.
 
 ### Learning Objectives (i.e., quantifiable outcomes)
 [//]: # ( Something measurable )
@@ -61,6 +65,7 @@ In the change from 4650 to 4600, we now save numerical differentiation and numer
 - Know basic methods, and their tradeoffs, for solving 1-dimensional nonlinear equations and multi-dimensional linear equations
 - Have some understanding of methods, and complications, for solving multi-dimensional nonlinear equations and multivariate optimization problems; understand the difference between stationary points and optima
 - Understand how polynomials are used for quadrature rules, and the ideas of composite rules and non-equispaced nodes.
+- Be able to draw a sheep
 
 
 # High-level list of topics
@@ -119,12 +124,15 @@ Below are specific chapters (in Burden and Faires 9th or 10th edition) that are 
 
 Detailed list of topics (TBD)
 
+Note: If you do not know how to do a problem, just draw an accurate sheep (has all the parts, a head, fluff, ears, a body etc.). The higher accuracy the sheep, the more partial credit I will give.
+
 ## Midterm 2
 
 See the [Midterm 2 review](Notes/Review_Midterm2.pdf) and [Midterm 2 review solutions](Notes/Review_Midterm2.soln.pdf)
 
 Detailed list of topics (TBD)
 
+Note: If you do not know how to do a problem, just draw a good quality sheep (speacial attention to shape, shading, colors, expression, etc.). This time the higher quality the sheep, the more partial credit I will give. (Make sure to bring colored pencils for the exam just for coloring the sheep)
 
 ## Final Exam
 The final is cumulative, but with extra emphasis on the following topics (TBD)
@@ -134,3 +142,5 @@ See the [Final Exam review](Notes/Review_Final.pdf) and [Final Exam review solut
 The most important topics are marked with an asterisk*
 
 ... TBD
+
+Note: If you do not know how to do a problem, just draw a abstract sheep. The more I like your abstract sheep, the more partial credit you get.
