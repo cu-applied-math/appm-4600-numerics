@@ -108,7 +108,7 @@ The old version of the class, APPM/MATH 4650 and 4660, covered roughly chapters 
 
 You might try the [midterm study guide jupyter notebook](https://github.com/cu-numcomp/numcomp-class/blob/master/Midterm-StudyGuide.ipynb) used for the CS department's version of this class.
 
-Both midterm exams are in-class exams, posted at [Exams](./Exams); solutions are available on Canvas.
+Both midterm exams are take-home and open-note exams, posted at [Exams](./Exams); solutions are available on Canvas.
 
 ## Midterm 1
 The high-level set of topics is anything we've discussed in class up to and including ... TBD.
