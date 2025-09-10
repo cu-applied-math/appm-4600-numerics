@@ -63,7 +63,8 @@ For each lab, you must attend in person (we will take attendance if this becomes
 
 ## Exams
 - There will be **two midterms**
-- There is a **final** exam 
+- There is a **final** exam
+- The lowest exam score will be dropped
 
 ## Projects
 
