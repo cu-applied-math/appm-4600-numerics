@@ -59,7 +59,7 @@ See the separate [syllabus document](syllabus.md) and the detailed [day-by-day s
 ## Recitations/Labs
 Thursdays, led by the TA.
 
-For each lab, you must attend in person (we will take attendance if this becomes an issue), and then turn in the required documents to Canvas by midnight on the day of the lab. This counts for 15% of your grade.  Scoring per lab is done on a pass/fail basis.  We will automatically give all students one "free" lab that you do not need to turn in -- you do not need to tell us which lab, we automatically remove one of your lowest scores.
+For each lab, you must attend in person (we will take attendance if this becomes an issue), and then turn in the required documents to Canvas by midnight on the day of the lab. This counts for 15% of your grade.  Scoring per lab is done on a pass/fail basis.  We will automatically give all students one "free" lab that you do not need to turn in -- you do not need to tell us which lab, we automatically remove one of your lowest scores. You may come to lab each day with a silly hat or an ugly sweater to get extra credit. Extra credit will be evaluated based on vibes.
 
 ## Exams
 - There will be **two midterms**
