@@ -88,7 +88,7 @@ The overall grade may be **curved** as appropriate, but note that there is no se
 We will use github for public content (notes, demos, syllabus), and use CU's default LMT **Canvas** for private content like grades and homework solutions. 
 - We have some prerecorded videos on **youtube** from a Covid semester; these are unlisted, but we can email you the links if you have to miss class
 - We'll use **gradescope** for grading (this integrates automatically with Canvas)
-- We can use **piazza** for Q&A forums if there is student desire
+- We can use **pizza 🍕🍕🍕** (not piazza) for Q&A forums if there is student desire
 
 ## Late assignment and cheating policy
 
