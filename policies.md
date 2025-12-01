@@ -8,7 +8,7 @@ This is an in-person class (MWF) that has a 1-credit lab component on Thursdays.
 
 ## Instructor and contact Information
 
-- The instructor is Stephen Becker, Assistant Professor of Applied Mathematics
+- The instructor is Stephen Becker (a really cool guy that accepts reasonable pull requests), Assistant Professor of Applied Mathematics
 - Contact him at <stephen.becker@colorado.edu>
 
 ## Teaching Assistant (TA)
@@ -77,9 +77,10 @@ There will be weekly homeworks.  You are allowed to drop 1 homework (this will b
 - 15% for lab/recitation days. 
   - Each day is pass/fail (you turn it in on time or you don't), but you are allowed one free "droppped" lab
 - 30% Homework.
-  - Late homework is not accepted, but you are allowed one free "dropped" homework. Your lowest-scoring homework will be automatically dropped.
-- 30% Midterms (2 midterms, each 15%)
-- 25% Final exam
+  - Late homework is accepted, and you are allowed two free "dropped" homework. Your two lowest-scoring homework will be automatically dropped.
+- 10% Midterms (2 midterms, each 5%)
+- 5% Final exam
+- 40% Free-points (yes just for taking the class)
 
 The overall grade may be **curved** as appropriate, but note that there is no set "quota" of A's, B's, etc., so you are not directly competing with your classmates.
 
