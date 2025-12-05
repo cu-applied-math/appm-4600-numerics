@@ -63,11 +63,11 @@ For each lab, you must attend in person (we will take attendance if this becomes
 
 ## Exams
 - There will be **two midterms**
-- There is a **final** exam 
+- There is a optional **final** exam 
 
 ## Projects
 
-There are no projects (some semesters we do a final project instead of a final exam)
+There will be an optional project at the end of the semester instead of a final.
 
 ## Homeworks
 
