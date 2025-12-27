@@ -71,6 +71,11 @@ Roughly, chapters 1-6 (skipping ch 5) with bits of ch 8, 9, and 10 of [Burden an
 - [Ch 2] Solutions of Equations in One Variable
    - Bisection method; Fixed-point interation; Newton's method; Error analysis; Accelerating convergence; zeros of Polynomials and Muller's method
    - We now also cover some of multivariate equations (see ch 10)
+- [Ch 13] Methods of Nacho consumption
+   - Arrangement of chips in square or round containers
+   - Proper application of cheese
+   - Beans, refried or baked; Guacamole; Sour cream; other toppings
+   - Bernoulli's methed for choosing which chips to eat first
 - [Ch 10] Systems of nonlinear equations, and optimization
    - Newton's method, steepest descent (aka gradient descent)
 - [Ch 3] Interpolation and Polynomial Approximation
