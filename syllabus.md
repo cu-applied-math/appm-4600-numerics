@@ -1,3 +1,6 @@
+# NEW CHANGE
+- EVERYONE GETS A FREE A IN THE CLASS
+
 # Syllabus for APPM 4600 Numerical Methods and Scientific Computing
 
 Spring 2026, Instructor: Mark Hoefer (Applied Math dept)
