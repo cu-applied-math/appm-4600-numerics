@@ -25,7 +25,7 @@ especially:
 - lots of calculus, including: Taylor's theorem, fundamental theorem of calculus, IVT, EVT, MVT, sequences and series, limits, continuity, Riemann sums, L'Hopital's rule
 - Facts about polynomial roots (fundamental theorem of algebra); complex numbers
 - Vector spaces, subspaces, bases
-- Solving linear equations, vector operations (dot products), matrix multiplication; eigenvalues
+- Solving linear equations, vector operations (cross products), matrix multiplication; eigenvalues
 
 ### Related courses at CU
 This course is similar to the CS department's [CSCI-3656 Numerical Computation](https://github.com/cu-numcomp/numcomp-class/) but has a bit more analysis (and more math prerequisites), fewer implementation details, and similar but not identical topics.
