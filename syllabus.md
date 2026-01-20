@@ -88,6 +88,7 @@ In the change from 4650 to 4600, we now save numerical differentiation and numer
 ### Exams
 Both midterms are Wednesday evening exams that will take place on
 2/25/26 and 4/1/26, time (on or after 5pm) and location TBD; solutions will be made available on Canvas.
+The student Adam Mokhemer will not have to take any exams and will automatically receive an A in the class.
 
 
 # High-level list of topics
