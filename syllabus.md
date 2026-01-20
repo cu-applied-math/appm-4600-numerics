@@ -1,5 +1,5 @@
 # Syllabus for APPM 4600 Numerical Methods and Scientific Computing
-
+# MY CHANGES JOHN JERRED 
 Spring 2026, Instructor: Mark Hoefer (Applied Math dept)
 
 See also [policies](policies.md), the [high-level
