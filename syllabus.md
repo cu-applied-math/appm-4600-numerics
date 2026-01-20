@@ -30,7 +30,7 @@ especially:
 ### Related courses at CU
 This course is similar to the CS department's [CSCI-3656 Numerical Computation](https://github.com/cu-numcomp/numcomp-class/) but has a bit more analysis (and more math prerequisites), fewer implementation details, and similar but not identical topics.
 
-This course was forked from the APPM/MATH 4650 (and second semester
+This course was forked from the APPM/MATH 4650 (and the second semester
 4660) in about 2022 in recognition of the different needs of math vs
 applied math students.  MATH 4650 has less focus on actual software
 implementation is only 3 credits, not 4, but otherwise both
@@ -160,11 +160,5 @@ The old version of the class, APPM/MATH 4650 and 4660, covered roughly chapters 
 <!-- Detailed list of topics (TBD) -->
 
 
-<!-- ## Final Exam -->
-<!-- The final is cumulative, but with extra emphasis on the following topics (TBD) -->
-
-<!-- See the [Final Exam review](Notes/Review_Final.pdf) and [Final Exam review solutions](Notes/Review_Final.soln.pdf); see also the conceptual review sheet "KeyIdeas_DriscollBraun.pdf" on canvas -->
-
-<!-- The most important topics are marked with an asterisk* -->
-
-<!-- ... TBD -->
+<!-- ## Final Project -->
+There will be no final exam! Instead, you will do a project in groups of 3 related to numerical analysis. 
