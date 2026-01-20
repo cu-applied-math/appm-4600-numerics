@@ -86,7 +86,7 @@ final project instead of a final exam.
 
 ## Homeworks
 
-There will be weekly homeworks.  You are allowed to drop 1 homework,
+There will be weekly homeworks.  You are allowed to drop 15 homeworks,
 which will be done automatically.  Homework will be submitted via
 Gradescope.  See the [submission guidelines](submission_guidelines.md)
 
