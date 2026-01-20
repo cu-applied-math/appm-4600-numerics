@@ -77,16 +77,16 @@ remove one of your lowest scores.
 ## Exams
 - There will be **two midterms** on 2/23/26 and 3/30/26, time (on or
   after 5pm) and location TBD.
-- There is a **final** exam on Wednesday, April 29 from 7:30--10 PM.
+- There is no **final** exam for this class (see *Projects* for more information).
 
 ## Projects
 
-There are no projects this semester.  Some semesters, there has been a
-final project instead of a final exam.
+There will be a final project in this class that is due the last day of class.
+More information on delivarables will be posted soon.
 
 ## Homeworks
 
-There will be weekly homeworks.  You are allowed to drop 1 homework,
+There will be weekly homeworks.  You are allowed to drop 2 homeworks,
 which will be done automatically.  Homework will be submitted via
 Gradescope.  See the [submission guidelines](submission_guidelines.md)
 
@@ -102,7 +102,7 @@ Gradescope.  See the [submission guidelines](submission_guidelines.md)
     "dropped" homework. Your lowest-scoring homework will be
     automatically dropped.
 - 30% Midterms (2 midterms, each 15%)
-- 25% Final exam
+- 25% Final project
 
 The overall grade may be **curved** as appropriate, but note that
 there is no set quota of A's, B's, etc., so you are not directly
