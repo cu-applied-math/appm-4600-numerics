@@ -12,8 +12,8 @@ This is an in-person class (MWF) that has a 1-credit lab component on Tuesdays.
 
 ## Teaching Assistant (TA)
 
-- Riley Fisher, Applied Mathematics PhD student
-- Contact her at <riley.fisher@coloado.edu>
+- Scott Abbott, Applied Mathematics student
+- Contact her at <scott.abbott@coloado.edu>
 
 ## Meeting times
 
