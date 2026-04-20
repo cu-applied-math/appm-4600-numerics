@@ -121,6 +121,10 @@ and we may teach extra topics (at the instructor's discretion) such as
 - automatic differentiation
 - approximation theory (i.e., some of ch 8)
 - iterative linear algebra techniques (i.e.., some of ch 7 on CG, and 9)
+- speculative geometry and topology
+- what even is a "code"?
+- finding the biggest number out there
+- and other fascinating subjects
 
 For reference, the chapters which are *not* covered extensively in this first semester course are:
 
