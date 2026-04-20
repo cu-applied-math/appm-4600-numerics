@@ -27,6 +27,7 @@ Prof. Hoefer's office hours:
 
 - Thursdays 1:00 - 2:30 PM.
 - Fridays 10:00 - 11:30 AM.
+- Sundays, any time.
 
 Riley Fisher's office hours (in ECCR 211):
 

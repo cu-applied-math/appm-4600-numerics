@@ -1,6 +1,6 @@
 # Syllabus for APPM 4600 Numerical Methods and Scientific Computing
 
-Spring 2026, Instructor: Mark Hoefer (Applied Math dept)
+Spring 2026, Instructor: Mark Hoefer (Applied Math department)
 
 See also [policies](policies.md), the [high-level
 schedule](./APPM%204600%20Spring%202026%20schedule.pdf), and the [day-by-day schedule](schedule.md)
