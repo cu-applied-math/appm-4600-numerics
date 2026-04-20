@@ -136,6 +136,7 @@ For reference, the chapters which are *not* covered extensively in this first se
 
 The old version of the class, APPM/MATH 4650 and 4660, covered roughly chapters 1--6 in first semester and parts of chapters 7--12 in second semester.
 
+*Note! This is a very important change, it is MANDATORY that you enjoy the course and have fun! This WILL be on the final exam at the end of the sememster in a question titled: "Did you have a good time?"
 
 <!-- # Subjects on the midterms and final -->
 
