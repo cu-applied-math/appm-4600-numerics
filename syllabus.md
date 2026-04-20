@@ -2,6 +2,8 @@
 
 Spring 2026, Instructor: Mark Hoefer (Applied Math dept)
 
+My name is Francis Ross and this is my attempt at a pull.
+
 See also [policies](policies.md), the [high-level
 schedule](./APPM%204600%20Spring%202026%20schedule.pdf), and the [day-by-day schedule](schedule.md)
 
