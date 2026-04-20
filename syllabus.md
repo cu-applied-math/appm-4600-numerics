@@ -39,10 +39,9 @@ classes cover roughly the same topics.
 ### Programming
 Homeworks will involve mathematical analysis and programming.
 
-Students are expected to already know how to program.  We encourage
-using Python; Julia is another good choice though we will not be using
-it explicitly.  For homework assignments, usually the deliverable is
-the outcome of some code, so therefore the student may choose **any**
+Students are expected to already know how to program in Python as labs
+are all going to be in Python. For homework assignments, usually the deliverable
+is the outcome of some code, so the student may choose **any**
 programming language. However, we will be doing demonstrations in
 Python and the instructor/TA are best at debugging Python and/or
 Matlab.  Most of our demonstrations will be using
