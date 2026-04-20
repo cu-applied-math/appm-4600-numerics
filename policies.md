@@ -1,6 +1,6 @@
 # Class-specific policies
 
-Undergraduate numerical analysis, first semester, APPM 4600. University of Colorado Boulder, Spring 2025.
+Undergraduate numerical analysis, first semester, APPM 4600. University of Colorado Boulder, Spring 2026.
 
 ## Details in a nutshell
 This is an in-person class (MWF) that has a 1-credit lab component on Tuesdays.
