@@ -87,7 +87,7 @@ In the change from 4650 to 4600, we now save numerical differentiation and numer
 
 ### Exams
 Both midterms are Wednesday evening exams that will take place on
-2/25/26 and 4/1/26, time (on or after 5pm) and location TBD; solutions will be made available on Canvas.
+2/25/26 and 4/1/26, time (on or after 5pm) and location TBD; solutions will be made available on Canvas at least 24 hours before the exam.
 
 
 # High-level list of topics
