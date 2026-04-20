@@ -5,6 +5,9 @@ Spring 2026, Instructor: Mark Hoefer (Applied Math dept)
 See also [policies](policies.md), the [high-level
 schedule](./APPM%204600%20Spring%202026%20schedule.pdf), and the [day-by-day schedule](schedule.md)
 
+# Edited by: Tariq Sawaqed
+# You can drop 10 homework assignments (maybe) 
+
 ### Official course description
 Provides an introduction to numerical analysis and scientific
 computing. Numerical analysis topics include root finding,
