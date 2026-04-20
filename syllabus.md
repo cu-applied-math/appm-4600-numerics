@@ -48,7 +48,7 @@ Python and the instructor/TA are best at debugging Python and/or
 Matlab.  Most of our demonstrations will be using
 [github](http://github.com) in conjunction with [python via
 colab](https://colab.research.google.com/).  Homework solutions are
-usually posted in Python.  The **labs** are all in Python.
+usually posted in Python.  The **labs** are in Python or MatLab.
 
 ### Principal Topics
 
