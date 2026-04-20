@@ -2,71 +2,17 @@
 
 Spring 2026, Instructor: Mark Hoefer (Applied Math dept)
 
-See also [policies](policies.md), the [high-level
-schedule](./APPM%204600%20Spring%202026%20schedule.pdf), and the [day-by-day schedule](schedule.md)
-
 ### Official course description
-Provides an introduction to numerical analysis and scientific
-computing. Numerical analysis topics include root finding,
-interpolation, quadrature, linear system solution techniques, and
-techniques for approximating eigenvalues. Scientific computing topics
-include code development and repository management in addition to an
-introduction to shared and distributed memory computing. Involves
-hands-on learning with weekly group interactions and a final project
-including a report and in-class presentation. Recommended
-prerequisite: knowledge of a programming language such as Python
-(preferable), Matlab, or C++.
-
-A **prerequisite** course APPM 3310 (matrix methods), with a minimum grade of C-.  
-
-For 4600, we'll use a lot of math from your previous courses,
-especially:
-
-- lots of calculus, including: Taylor's theorem, fundamental theorem of calculus, IVT, EVT, MVT, sequences and series, limits, continuity, Riemann sums, L'Hopital's rule
-- Facts about polynomial roots (fundamental theorem of algebra); complex numbers
-- Vector spaces, subspaces, bases
-- Solving linear equations, vector operations (dot products), matrix multiplication; eigenvalues
+In this class every student gets an A. Hooray!
 
 ### Related courses at CU
-This course is similar to the CS department's [CSCI-3656 Numerical Computation](https://github.com/cu-numcomp/numcomp-class/) but has a bit more analysis (and more math prerequisites), fewer implementation details, and similar but not identical topics.
-
-This course was forked from the APPM/MATH 4650 (and second semester
-4660) in about 2022 in recognition of the different needs of math vs
-applied math students.  MATH 4650 has less focus on actual software
-implementation is only 3 credits, not 4, but otherwise both
-classes cover roughly the same topics.
+None
 
 ### Programming
-Homeworks will involve mathematical analysis and programming.
-
-Students are expected to already know how to program.  We encourage
-using Python; Julia is another good choice though we will not be using
-it explicitly.  For homework assignments, usually the deliverable is
-the outcome of some code, so therefore the student may choose **any**
-programming language. However, we will be doing demonstrations in
-Python and the instructor/TA are best at debugging Python and/or
-Matlab.  Most of our demonstrations will be using
-[github](http://github.com) in conjunction with [python via
-colab](https://colab.research.google.com/).  Homework solutions are
-usually posted in Python.  The **labs** are all in Python.
+No programming
 
 ### Principal Topics
-
-- Scientific computing concepts
-  - Floating point numbers
-  - Modern programming workflow
-  - Automatic differentiation (taught at instructor's discretion)
-- Fixed point equations and roots of nonlinear equations
-  - Focus on 1D case, some extensions to multidimensional case
-- Optimization
-- Interpolation, polynomial approximation, splines
-- Numerical integration (quadrature)
-- Gaussian elimination, LU, and solving linear systems
-  - Iterative methods (taught at instructor's discretion)
-- Eigenvalue problems
-  - Iterative methods (taught at instructor's discretion)
-
-In the change from 4650 to 4600, we now save numerical differentiation and numerical methods for IVP and BVP for the second semester class.
+None
 
 ### Learning Goals/Outcomes
 [//]: # ( Not testable; high-level )
