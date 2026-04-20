@@ -50,6 +50,8 @@ Matlab.  Most of our demonstrations will be using
 colab](https://colab.research.google.com/).  Homework solutions are
 usually posted in Python.  The **labs** are all in Python.
 
+Homeworks will be due at 11:59 on Fridays but will have a late deadline before 8 am on saturday worth 90 percent credit
+
 ### Principal Topics
 
 - Scientific computing concepts
