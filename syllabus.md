@@ -161,7 +161,7 @@ The old version of the class, APPM/MATH 4650 and 4660, covered roughly chapters 
 
 
 <!-- ## Final Exam -->
-<!-- The final is cumulative, but with extra emphasis on the following topics (TBD) -->
+NO FINAL YAYAYAYAYAY!
 
 <!-- See the [Final Exam review](Notes/Review_Final.pdf) and [Final Exam review solutions](Notes/Review_Final.soln.pdf); see also the conceptual review sheet "KeyIdeas_DriscollBraun.pdf" on canvas -->
 
