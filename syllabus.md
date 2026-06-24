@@ -37,7 +37,7 @@ implementation is only 3 credits, not 4, but otherwise both
 classes cover roughly the same topics.
 
 ### Programming
-Homeworks will involve mathematical analysis and programming.
+Homeworks will involve lots of calculus questions. 
 
 Students are expected to already know how to program.  We encourage
 using Python; Julia is another good choice though we will not be using
