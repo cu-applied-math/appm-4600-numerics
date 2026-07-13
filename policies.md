@@ -7,8 +7,8 @@ This is an in-person class (MWF) that has a 1-credit lab component on Tuesdays.
 
 ## Instructor and contact Information
 
-- Mark Hoefer, Professor of Applied Mathematics
-- Contact him at <hoefer@colorado.edu>
+- Maxwell Shedd, Leader of Applied Mathematics
+- Contact him at <maxwell.shedd@colorado.edu>
 
 ## Teaching Assistant (TA)
 
